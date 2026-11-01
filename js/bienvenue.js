@@ -1,5 +1,8 @@
 
 /* Exercice 1 a
+✓  affiche dans la console Bonjour depuis un fichier externe ! ;
+✓  affiche l’alerte Bienvenue au Club Informatique !.
+
 console.log("Bonjour depuis un fichier externe !");
 alert("Bienvenue au Club Informatique !");
 */
