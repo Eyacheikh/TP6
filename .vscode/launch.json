@@ -3,10 +3,12 @@ json
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "chrome",
+      "type": "msedge",
       "request": "launch",
-      "name": "Ouvrir bienvenue.html",
-      "file": "${workspaceFolder}/bienvenue.html"
+      "name": "Ouvrir la page (Edge)",
+      "file": "${workspaceFolder}/types.html",
+      "cleanUp": "wholeBrowser",
+      "internalConsoleOptions": "openOnSessionStart"
     }
   ]
 }
